@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/index.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/index.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/blog.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/blog.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/podcast.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/podcast.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/herramientas.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/herramientas.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/contacto.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/contacto.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/sobre.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/sobre.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/articulo-chatgpt.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/articulo-chatgpt.html</loc>
+  </url>
 
-<url>
-<loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/articulo-herramientas-ia.html</loc>
-</url>
+  <url>
+    <loc>https://johnnyxavier1995-sketch.github.io/ia-emprende/articulo-herramientas-ia.html</loc>
+  </url>
 
 </urlset>
