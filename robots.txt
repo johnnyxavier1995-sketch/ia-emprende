@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnnyxavier1995-sketch.github.io/ia-emprende/sitemap.xml
